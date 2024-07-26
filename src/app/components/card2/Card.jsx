@@ -19,7 +19,7 @@ const Card2=()=>{
                 
                
                 <p className={styles.description}>
-                    "ye insaan itna bajta hai life mein, bas bajwa lo harr jagh. Bajleshwar" -- KK
+                    ye insaan itna bajta hai life mein, bas bajwa lo harr jagh. Bajleshwar -- KK
                 </p>
                 
 

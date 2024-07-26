@@ -19,7 +19,7 @@ const Card3=()=>{
                 
                
                 <p className={styles.description}>
-                    "Beta jo cheeze aap aaj krrhe ho na, Me 10 saal phle krke chor chuka hun" -- KK
+                    Beta jo cheeze aap aaj krrhe ho na, Me 10 saal phle krke chor chuka hun -- KK
                 </p>
                     
 
