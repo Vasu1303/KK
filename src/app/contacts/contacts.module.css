@@ -41,3 +41,36 @@
     align-items: center;
     gap:10px;
 }
+.onlyfans{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    width: 100px;
+    height: 50px;
+}
+.ig{
+    display: flex;
+    align-items: center;
+    gap:45px;
+
+}
+
+.instagram{
+    width: 30px;
+    height: 30px;
+}
+
+.OF{
+    
+    width: 100px;
+    height: 50px;
+    
+}
+
+
+@media screen and (max-width:640px) {
+    .mainArea{
+        margin-left: 5px;
+    }
+    
+}

@@ -8,14 +8,14 @@ const LoginPage = () =>   {
     
 
     const alert = () =>{
-        toast("Sign In Karke Kya krega? Backend Nahi aata mereko")
+        toast("Sign In Karke Kya krega? Backend Nahi aata mereko" ,{position: 'top-center'})
     }
     const alert2 = () =>{
-        toast("Jab Google Ka nahi hora, github kaise hoga ")
+        toast("Jab Google Ka nahi hora, github kaise hoga " , {position: 'top-center'})
     }
     const alert3 = () =>{
-        toast("Are Naa Maan raha")
-        toast.error('Nahi aata jab backend')
+        toast("Are Naa Maan raha", {position: 'top-center'})
+        toast.error('Nahi aata jab backend', {position: 'top-center'})
     }
 
     return(

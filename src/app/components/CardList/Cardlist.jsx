@@ -5,6 +5,7 @@ import Card from '../card/Card'
 import Card2 from '../card2/Card'
 import Card3 from '../card3/Card'
 import Card4 from '../card4/Card'
+import Card5 from '../card5/Card'
 
 
 const CardList= () => {
@@ -19,6 +20,7 @@ const CardList= () => {
                     <Card2/>
                     <Card3/>
                     <Card4/>
+                    <Card5/>
                     
                 </div>
             <Pagination/>

@@ -20,7 +20,8 @@ const Menu= () => {
             <div className={styles.categoryList}>
                 
                 <Link href=" " className={`${styles.categoryItem} ${styles.styles}`}>
-                    <Image src="/kkpics/kklogo2.png" width={40} height={40} />
+                    Neta
+                    
                 </Link>
                 <Link href="" className={`${styles.categoryItem} ${styles.travel}`}>Bajna</Link>
                 <Link href="" className={`${styles.categoryItem} ${styles.coding}`}>DSA KING</Link>
