@@ -127,14 +127,15 @@ export const EditorsPick =(withImage) =>{
                             </span>
                             <h3 className={styles.title}>Happy birthday kritagya
 
-You are one of the most unique people ive met in my life and you’ve been a great friend to me
+                                You are one of the most unique people ive met in my life and you’ve been a great friend to me
 
-Youre very hardworking and i wish for you the best in your career and life in general, and i hope you have a great great birthday!!
+                                Youre very hardworking and i wish for you the best in your career and life in general, and i hope you have a great great birthday!!
 
-Oh and btw
-Pehle din jab maine tujhe dekha tha i thought you were some serial killer, and i have to say that still might be true😶‍🌫
+                                Oh and btw
+                                Pehle din jab maine tujhe dekha tha i thought you were some serial killer, and i have to say that still might be true😶‍🌫
 
-Ps - vasu ko bigaad mat</h3>
+                                Ps - vasu ko bigaad mat
+                            </h3>
                             <div className={styles.detail}>
                                 <span className={styles.editor}>  </span>
                                 <span className={styles.date}>   </span>
@@ -170,14 +171,27 @@ Ps - vasu ko bigaad mat</h3>
                     </Link>
                     <Link href="/" className={styles.item}>
                        {withImage &&  <div className={styles.imageContainer}>
-                            <Image src="/p1.jpeg" alt="" fill className={styles.image}/>
+                            <Image src="/kkpics/sukhpreet.png" alt="" fill className={styles.image}/>
 
                         </div>}
                         <div className={styles.textContainer}>
                             <span className={`${styles.category} ${styles.food}`}>
-                                Food
+                                Sukhpreet
                             </span>
-                            <h3 className={styles.title}>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h3>
+                            <h3 className={styles.title}>
+                                To: Mr. KHANNA <br />
+                                Subject: Birthday Wishes 🥂 <br />
+
+                                Happy Birthday Sir !! 
+                                Party hard but drink soft
+
+                                Party na mainai di na mai le payunga aaj but it's due for sure.
+
+                                Well wishes to you have a great and adventurous life ahead. <br />
+
+                                Pov: life sucks after 20's, from personal experience of 4 days 🫠
+
+                            </h3>
                             <div className={styles.detail}>
                                 <span className={styles.editor}>  </span>
                                 <span className={styles.date}>   </span>
@@ -187,14 +201,16 @@ Ps - vasu ko bigaad mat</h3>
                     </Link>
                     <Link href="/" className={styles.item}>
                        {withImage &&  <div className={styles.imageContainer}>
-                            <Image src="/p1.jpeg" alt="" fill className={styles.image}/>
+                            <Image src="/kkpics/lavanya2.png" alt="" fill className={styles.image}/>
 
                         </div>}
                         <div className={styles.textContainer}>
                             <span className={`${styles.category} ${styles.food}`}>
-                                Food
+                                Lavanya
                             </span>
-                            <h3 className={styles.title}>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h3>
+                            <h3 className={styles.title}>
+                                Happy birthday kk.... Lol jb vasu ne kk bola I thought KK😂.... Anyways happy birthday.... Janm din ki hardik badhai
+                            </h3>
                             <div className={styles.detail}>
                                 <span className={styles.editor}>  </span>
                                 <span className={styles.date}>   </span>

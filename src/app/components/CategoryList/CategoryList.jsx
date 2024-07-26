@@ -15,7 +15,7 @@ const CategoryList= () => {
                     {/* <//</div>Link href= className={`${styles.category} ${style.styles }`}> */}
                     {/* //<Image src="/style.png" alt=" " width = {24} height={24} className={styles.image}/> style */}
                     {/* //</Link> */}
-                    <Link href="/byKrati" className={`${styles.category} ${styles.style }`}><Image src="/kkpics/krati.png" alt=" " width = {120} height={120} className={styles.image}/> Krati </Link>
+                    <Link href="/byKrati" className={`${styles.category} ${styles.style }`}><Image src="/kkpics/krati1.png" alt=" " width = {120} height={120} className={styles.image}/> Krati </Link>
 
                     <Link href="/byNaveen" className={`${styles.category} ${styles.coding }`}><Image src="/coding.png" alt=" " width = {120} height={120} className={styles.image}/> Naveen </Link>
 
