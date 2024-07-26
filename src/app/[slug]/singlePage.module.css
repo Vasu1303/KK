@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 400px;
+    margin-bottom:600px;
 }
 .infoContainer{
     display: flex;
@@ -76,9 +76,11 @@
 }
 .post{
     display: flex;
+    flex-direction: column;
+    justify-content: space-between;
    
    
-    flex:5;
+    
     margin-top: 50px;
 
 }

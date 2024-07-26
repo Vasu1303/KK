@@ -26,6 +26,7 @@ export const SinglePage=()=>{
                         <h1>Resume</h1>
                        <Image src="/kkpics/kkresume.jpg" alt="" height={500} width={400} className={styles.resumeimage}/>
                        <p>GALLERY</p>
+                       
                     </div>
                     <div className={styles.gallery}>
                         <Image src="/kkpics/kk1.jpg" height={500} width={500} className={styles.image}/>
