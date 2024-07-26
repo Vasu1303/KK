@@ -24,8 +24,8 @@ export const SinglePage=()=>{
                 <div className={styles.post}>
                     <div className={styles.description}>
                         <h1>Resume</h1>
-                        <img src="/kkpics.kkandkrati1.png" alt="" />
-                       
+                       <Image src="/kkpics/kkresume.jpg" alt="" height={500} width={400} className={styles.resumeimage}/>
+                        <span>hello</span>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit et dolor, ratione nam quasi quod quidem, nihil eligendi fuga, eius unde aut necessitatibus labore dolorem voluptatem praesentium error atque amet.</p>
                         <h1>Lorem ipsum dolor sit amet consectetur.</h1>
                         <p>Lorem ipsum dolor sit amet consecte tur adipisicing elit. Suscipit et dolor, ratione nam quasi quod quidem, nihil eligendi fuga, eius unde aut necessitatibus labore dolorem voluptatem praesentium error atque amet.</p>

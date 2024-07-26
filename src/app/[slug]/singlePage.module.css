@@ -82,6 +82,10 @@
     margin-top: 0px;
 }
 
+.resumeimage{
+    justify-content: center;
+}
+
 @media screen and (max-width: 1536px) {
     .title{
         font-size: 54px;

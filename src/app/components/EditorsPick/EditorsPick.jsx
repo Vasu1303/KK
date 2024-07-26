@@ -220,14 +220,18 @@ export const EditorsPick =(withImage) =>{
                     </Link>
                     <Link href="/" className={styles.item}>
                        {withImage &&  <div className={styles.imageContainer}>
-                            <Image src="/p1.jpeg" alt="" fill className={styles.image}/>
+                            <Image src="/kkpics/vaayu1.jpg" alt="" fill className={styles.image}/>
 
                         </div>}
                         <div className={styles.textContainer}>
                             <span className={`${styles.category} ${styles.food}`}>
-                                Food
+                                Vaayu
                             </span>
-                            <h3 className={styles.title}>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h3>
+                            <h3 className={styles.title}>
+                                Happy Birthday Kritagya
+                                May your dreams come true and haan mere taraf se vasu apko gift kar dega aur return gift direct mere ko bhej dena hehehe jokes apart 
+                                Cheers on your birthday. ...
+                            </h3>
                             <div className={styles.detail}>
                                 <span className={styles.editor}>  </span>
                                 <span className={styles.date}>   </span>
