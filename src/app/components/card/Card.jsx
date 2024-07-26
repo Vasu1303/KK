@@ -14,7 +14,7 @@ const Card=()=>{
                     <span className={styles.category}>Coding</span>
                 </div>
                 <Link href="/">
-                  <h1 className={styles.title}>LEETCODE par 150+ Questions</h1>
+                  <h1 className={styles.title}>LEETCODE par 250+ Questions</h1>
                 </Link>
                 
                
