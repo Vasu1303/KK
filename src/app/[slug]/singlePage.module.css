@@ -16,8 +16,9 @@
 .imageContainer{
     flex:1;
     height: 400px;
-    
     position: relative;
+    
+    
     margin-bottom: 50px;
     border-radius: 10px;
 }
@@ -75,8 +76,8 @@
 }
 .post{
     display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+   
+   
     flex:5;
     margin-top: 50px;
 
@@ -158,40 +159,70 @@
         font-size: 18px;
     }
     .container{
-        margin-bottom: 800px;
+        margin-bottom: 500px;
     }
     .infoContainer{
         display: flex;
         flex-direction: column;
-        gap:10px;
+        gap:3px;
+        
+       
+    
+    }
+    .post{
+        display: flex;
+        flex-direction: column;
+        gap:150px;
+    }
+    .gallery{
+        padding-top: 120px;
+
+    }
+    .resume{
+        height:300px;
+        width:300px;
+    }
+    .imageContainer{
+        height:100px;
+        width: 100px;
     }
     .coverimage{
+       
         width:100px;
         height: 100px;
     }
+    .gallery{
+        display: flex;
+        flex-wrap: wrap;
+        
+    }
+    
    
     .gallery .image {
-        height:200px;
-        width:150px;
+        height:150px;
+        width:100px;
         border-radius: 20px;
         margin-bottom: 10px;
         margin-right: 10px;
         
     }
     .gallery .image2{
-        height:200px;
-        width:150px;
+        height:150px;
+        width:140px;
         border-radius: 20px;
-        margin-bottom: 10px;
+       
         margin-right: 10px;
         
     }
     .gallery .image3{
-        height:200px;
-        width:150px;
+        height:150px;
+        width:110px;
         border-radius: 20px;
         margin-bottom: 10px;
-        margin-right: 10px;
+       
         
+    }
+    .finalText{
+        margin-top:200px;
     }
 }
