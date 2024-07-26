@@ -1,5 +1,5 @@
 .title{
-    background-color: rgb(55, 223, 119);
+    background-color: rgb(136, 223, 218);
     padding: 10px;
     text-align: center;
     margin-top: 15px;
@@ -35,7 +35,7 @@
     margin-bottom: 20px;
 }
 .text p{
-    font-size: 25px;
+    font-size: 55px;
     color: rgb(59, 59, 59)
 }
 
@@ -57,6 +57,21 @@
     .text h1{
         text-align: center;
     }
+    .gallery .image{
+        height:250px;
+        width:200px;
+        flex-wrap: wrap;
+        width: 40%;
+        margin-bottom: 10px;
+        
+        
+        
+    }
+    .container{
+        margin-bottom: 300px;
+    }
+   
+
     
    
 }
