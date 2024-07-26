@@ -19,13 +19,13 @@ const CategoryList= () => {
 
                     <Link href="/byNaveen" className={`${styles.category} ${styles.coding }`}><Image src="/coding.png" alt=" " width = {120} height={120} className={styles.image}/> Naveen </Link>
 
-                    <Link href="/byPrajwal" className={`${styles.category} ${styles.culture }`}><Image src="/kkpics/prajwal.png" alt=" " width = {120} height={120} className={styles.image}/> Prajwal </Link>
+                    <Link href="/byPrajwal" className={`${styles.category} ${styles.culture }`}><Image src="/kkpics/prajwal1.png" alt=" " width = {120} height={120} className={styles.image}/> Prajwal </Link>
 
                     <Link href="/byManyata" className={`${styles.category} ${styles.travel }`}><Image src="/kkpics/manyata.png" alt=" " width = {120} height={120} className={styles.image}/> Manyata </Link>
 
                    
 
-                    <Link href="/byVasu" className={`${styles.category} ${styles.food }`}><Image src="/kkpics/vasu.png" alt=" " width = {120} height={120} className={styles.image}/> Vasu </Link>
+                    <Link href="/byVasu" className={`${styles.category} ${styles.food }`}><Image src="/kkpics/vasu1.png" alt=" " width = {120} height={120} className={styles.image}/> Vasu </Link>
 
                     {/* <Link href="/fashionblog" className={`${styles.category} ${styles.fashion }`}><Image src="/fashion.png" alt=" " width = {24} height={24} className={styles.image}/> Fashion </Link> */}
 
