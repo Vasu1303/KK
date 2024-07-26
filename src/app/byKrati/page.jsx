@@ -47,7 +47,7 @@ const BlogPage=()=>{
                     <Image src="/kkpics/kkandkrati3.jpg" height={1000} width={1000} className={styles.image}/>
                     <Image src="/kkpics/kkandkrati4.jpg" height={1000} width={1000} className={styles.image}/>
                     
-                    <Image src="/kkpics/kkandkrati6.jpg" height={1000} width={1000} className={styles.image}/>
+                    <Image src="/kkpics/kkandkrati6six.jpg" height={1000} width={1000} className={styles.image}/>
                     <Image src="/kkpics/kkandkrati9.jpg" height={1000} width={1000} className={styles.image}/>
                     <Image src="/kkpics/kkandkrati11.jpg" height={500} width={500} className={styles.image}/>
                    
