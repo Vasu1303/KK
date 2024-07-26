@@ -27,7 +27,7 @@ export const contacts=()=>{
                     </Link>
                     
                     <Link href="https://www.instagram.com/khanna__kritagya" className={styles.ig} target="__blank">
-                        <Image src="/kkpics/instagramlogo.png" width={500} height={500} className={styles.instagram} alt="/"/>
+                        <Image src="/kkpics/instagramLogo.png" width={500} height={500} className={styles.instagram} alt="/"/>
                         <span>khanna__kritagya</span>
                     </Link>
                         <Link href="" onClick={alert} className={styles.onlyfans}>
