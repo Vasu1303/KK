@@ -4,7 +4,7 @@ import Menu from "../components/Menu/Menu";
 import styles from "./culturePage.module.css";
 import Image from "next/image";
 
-export const cultureblog=()=>{
+const cultureblog=()=>{
     return(
         <div className={styles.container}>
             <h1 className={styles.title}>By Prajwal</h1>

@@ -4,7 +4,7 @@ import Menu from "../components/Menu/Menu";
 import styles from "./byManyata.module.css";
 import Image from "next/image";
 
-export const travelblog=()=>{
+const travelblog=()=>{
     return(
         <div className={styles.container}>
             <h1 className={styles.title}>By Manyata</h1>

@@ -6,7 +6,7 @@ import Image from "next/image";
 import Footer from "../components/footer/Footer";
 
 
-export const BlogPage=()=>{
+const BlogPage=()=>{
     return(
         <div className={styles.container}>
             <h1 className={styles.title}>By Krati</h1>

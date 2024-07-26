@@ -4,7 +4,7 @@ import Menu from "../components/Menu/Menu";
 import styles from "./codingPage.module.css";
 import Image from "next/image";
 
-export const codingblog=()=>{
+const codingblog=()=>{
     return(
         <div className={styles.container}>
             <h1 className={styles.title}>By Naveen</h1>
