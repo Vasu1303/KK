@@ -12,9 +12,11 @@
 }
 .imageContainer{
     flex:1;
-    height: 350px;
+    height: 400px;
+    
     position: relative;
     margin-bottom: 50px;
+    border-radius: 10px;
 }
 .title{
     font-size: 64px;
@@ -24,7 +26,8 @@
 }
 .image{
     object-fit: cover;
-    border-radius: 18px;
+    width: 500px;
+    border-radius: 30px;
     margin: 15px;
 }
 .userImageContainer{

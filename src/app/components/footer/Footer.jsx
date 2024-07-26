@@ -25,25 +25,25 @@ const Footer = () => {
                 <div className={styles.list}>
                     <span className={styles.listTitle}>Links</span>
                     <Link href="/">Homepage</Link>
-                    <Link href="/">Blog</Link>
+                    <Link href="/byKrati">Krati</Link>
                     <Link href="/">About</Link>
-                    <Link href="/">Contact</Link>
+                    <Link href="/contacts">Contact</Link>
                 </div>
 
                 <div className={styles.list}>
-                    <span className={styles.listTitle}>Tags</span>
-                    <Link href="/blog">Style</Link>
-                    <Link href="/">Fashion</Link>
-                    <Link href="/">Coding</Link>
-                    <Link href="/">Travel</Link>
+                    <span className={styles.listTitle}>People</span>
+                    <Link href="/byNaveen">Naveen</Link>
+                    <Link href="/byPrajwal">Prajwal</Link>
+                    <Link href="/byManyata">Manyata</Link>
+                    <Link href="/byVasu">Vasu</Link>
                 </div>
 
                 <div className={styles.list}>
                     <span className={styles.listTitle}>Social</span>
-                    <Link href="/">Facebook</Link>
-                    <Link href="/">Instagram</Link>
-                    <Link href="/">YouTube</Link>
-                    <Link href="/">G-Mail</Link>
+                    <Link href="/contacts">Mobile</Link>
+                    <Link href="/contacts">Gmail</Link>
+                    <Link href="/contacts">Instagram</Link>
+                    <Link href="/contacts">OnlyFans</Link>
                 </div>
 
 
