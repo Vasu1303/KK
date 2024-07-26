@@ -31,12 +31,12 @@ const codingblog=()=>{
                         <h1>GALLERY</h1>
                     </div>
                     <div className={styles.gallery}>
-                        <Image src="/kkpics/kkandnaveen2.jpg" height={300} width={250} className={styles.image}/>
+                        <Image src="/kkpics/kkandnaveen2.jpg" height={500} width={500} className={styles.image}/>
                         
-                        <Image src="/kkpics/kkandnaveen1.jpg" height={300} width={250    } className={styles.image}/>
+                        <Image src="/kkpics/kkandnaveen1.jpg" height={500} width={500    } className={styles.image}/>
                         <Image src="/kkpics/kkandnaveen5.jpg" height={300} width={250    } className={styles.image}/>
                         <Image src="/kkpics/kkandnaveen6.jpg" height={300} width={250    } className={styles.image}/>
-                        <Image src="/kkpics/kkandnaveen3.jpg" height={300} width={250    } className={styles.image}/>
+                        <Image src="/kkpics/kkandnaveen3.jpg" height={500} width={550    } className={styles.image}/>
                     
 
 
